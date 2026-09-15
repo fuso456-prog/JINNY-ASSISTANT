@@ -26,3 +26,4 @@
 - 2026-09-13 22:02 (Asia/Bangkok) [Evening] พรุ่งนี้มี: Leg day + Cardio 60 minutes
 - 2026-09-14 09:08 (Asia/Bangkok) [Morning] วันนี้มี: Leg day + Cardio 60 minutes
 - 2026-09-15 09:07 (Asia/Bangkok) [Morning] วันนี้มี: Upper + Cardio 30 minutes
+- 2026-09-15 22:03 (Asia/Bangkok) [Evening] พรุ่งนี้มี: road show EY 13.00
