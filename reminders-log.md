@@ -43,3 +43,4 @@
 - 2026-09-22 22:00 (Asia/Bangkok) [Evening] พรุ่งนี้มี: ไม่มีกิจกรรม
 - 2026-09-23 09:00 (Asia/Bangkok) [Morning] วันนี้มี: ไม่มีกิจกรรม
 - 2026-09-23 22:13 (Asia/Bangkok) [Evening] พรุ่งนี้มี: Leg day + Cardio 60 minutes, วันเกิดพั้น's birthday
+- 2026-09-24 09:17 (Asia/Bangkok) [Morning] วันนี้มี: Leg day + Cardio 60 minutes, วันเกิดพั้น's birthday
