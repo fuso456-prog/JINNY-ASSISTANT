@@ -46,3 +46,4 @@
 - 2026-09-24 09:17 (Asia/Bangkok) [Morning] วันนี้มี: Leg day + Cardio 60 minutes, วันเกิดพั้น's birthday
 - 2026-09-24 22:13 (Asia/Bangkok) [Evening] พรุ่งนี้มี: Upper + Cardio 30 minutes
 - 2026-09-25 09:12 (Asia/Bangkok) [Morning] วันนี้มี: Upper + Cardio 30 minutes
+- 2026-09-25 22:15 (Asia/Bangkok) [Evening] พรุ่งนี้มี: ไม่มีกิจกรรม
