@@ -67,3 +67,4 @@
 - 2026-10-05 09:12 (Asia/Bangkok) [Morning] วันนี้มี: Leg day + Cardio 60 minutes
 - 2026-10-05 22:15 (Asia/Bangkok) [Evening] พรุ่งนี้มี: Upper + Cardio 30 minutes
 - 2026-10-06 09:11 (Asia/Bangkok) [Morning] วันนี้มี: Upper + Cardio 30 minutes
+- 2026-10-06 22:15 (Asia/Bangkok) [Evening] พรุ่งนี้มี: ไม่มีกิจกรรม
