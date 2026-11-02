@@ -120,3 +120,4 @@
 - 2026-11-01 09:10 (Asia/Bangkok) [Morning] วันนี้มี: ไม่มีกิจกรรม
 - 2026-11-01 22:06 (Asia/Bangkok) [Evening] พรุ่งนี้มี: Leg day + Cardio 60 minutes
 - 2026-11-02 09:10 (Asia/Bangkok) [Morning] วันนี้มี: Leg day + Cardio 60 minutes
+- 2026-11-02 23:11 (Asia/Bangkok) [Evening] พรุ่งนี้มี: Upper + Cardio 30 minutes
