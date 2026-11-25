@@ -165,3 +165,4 @@
 - 2026-11-23 22:06 (Asia/Bangkok) [Evening] พรุ่งนี้มี: Upper + Cardio 30 minutes
 - 2026-11-24 09:10 (Asia/Bangkok) [Morning] วันนี้มี: Upper + Cardio 30 minutes
 - 2026-11-24 22:06 (Asia/Bangkok) [Evening] พรุ่งนี้มี: ไม่มีกิจกรรม
+- 2026-11-25 09:10 (Asia/Bangkok) [Morning] วันนี้มี: ไม่มีกิจกรรม
